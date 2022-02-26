@@ -1,0 +1,6 @@
+*.csv
+*.pth
+data
+*.txt
+*.model
+.vscode
